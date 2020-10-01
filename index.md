@@ -2,7 +2,7 @@
 
 ### About Me
 
-<p>I'm Conrad, a Computer Programming major. I've been programming off and on since high school, so I've dabbled in C++, Java, HTML/CSS, and Python. My proudest achievement to date is as a member of a small company called INDE: we have published a tabletop rpg called [Shattered](https://neverdarkenough.com). It's a post-apocalyptic fantasy setting overrun by Lovecraftian monsters. [Duck Duck Go](https://duckduckgo.com)</p>
+<p>I'm Conrad, a Computer Programming major. I've been programming off and on since high school, so I've dabbled in C++, Java, HTML/CSS, and Python. My proudest achievement to date is as a member of a small company called INDE: we have published a tabletop rpg called [Shattered](https://neverdarkenough.com). It's a post-apocalyptic fantasy setting overrun by Lovecraftian monsters.</p>
 
 ![Gravekeepers](/blob/master/Gravekeepers%20-%20compressed.png)
 
