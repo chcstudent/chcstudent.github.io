@@ -10,7 +10,7 @@
 
 ### Current Build
 
-This page currently uses the Jekyll "Slate" theme, which allows the use of 'markup' formatting for text. There are no other features.
+This page currently uses the Jekyll "Slate" theme, which allows the use of 'markdown' formatting for text. There are no other features.
 
 ### Intended Features
 
