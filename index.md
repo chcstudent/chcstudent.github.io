@@ -1,6 +1,6 @@
-## It's Never Dark Enough
+# It's Never Dark Enough
 
-### About Me
+## About Me
 
 <p>I'm Conrad, a Computer Programming major. I've been programming off and on since high school, so I've dabbled in C++, Java, HTML/CSS, and Python. My proudest achievement to date is as a member of a small company called INDE: we have published a tabletop rpg called <a href="https://neverdarkenough.com">Shattered</a>. It's a post-apocalyptic fantasy setting overrun by Lovecraftian monsters.</p>
 
@@ -10,8 +10,8 @@
 
 ### Current Build
 
-This page currently uses the Jekyll "Slate" theme, which allows the use of 'markdown' formatting for text. There are no other features.
+This page currently uses the Jekyll "Slate" theme, which allows the use of 'markdown' formatting for text. Three image embeds. Two link embeds.
 
 ### Intended Features
 
-To be determined.
+Multiple pages, with a sidebar menu connecting them all. A landing page, a page for INDE & Shattered, and add'l pages as class progresses.
