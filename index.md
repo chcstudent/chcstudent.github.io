@@ -5,9 +5,7 @@
   Author: Cory Conrad
   About: This webpage is a portfolio for INDE LLC and their project, Shattered, in service of a class, CPT422.
   -->
-<style>
   
-</style>
   
 </head>
 # It's Never Dark Enough
