@@ -1,10 +1,8 @@
 <html>
 <head>
-  <meta content="width=device-width, initial-scale=1">
-  <!-- Updated: 11-OCT-20
-  Author: Cory Conrad
-  About: This webpage is a portfolio for INDE LLC and their project, Shattered, in service of a class, CPT422.
-  -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="Cory Conrad">
+  <meta name="description" content="A site dedicated to the Shattered RPG">
   
   
 </head>
