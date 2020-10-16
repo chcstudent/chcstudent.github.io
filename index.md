@@ -23,7 +23,7 @@ This page currently uses the Jekyll "Slate" theme, which allows the use of 'mark
 
 ### Intended Features
 
-5 Pages (including this one). About Us will include blurbs about the team. About the World will cover the world, the magic, and the monsters. Character Creation will cover teh character sheet and what to do with it. Let's Play will cover the dice mechanics and include a video of play.
+5 Pages (including this one). About Us will include blurbs about the team. About the World will cover the world, the magic, and the monsters. Character Creation will cover teh character sheet and what to do with it. Let's Play will cover the dice mechanics and include a video of play. The end result should look kind of like this.
 
 
 </html>
