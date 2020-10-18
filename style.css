@@ -1,11 +1,10 @@
 body {
   background-color: black;
-  color: white
-  margin: 0 10%;
+  color: white;
   font-family: sans-serif;
 }
 p {
-  color: white
+  color: white;
 } 
 h1 {
   background-color: black;
