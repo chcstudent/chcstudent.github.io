@@ -7,17 +7,34 @@ Modify your GitHub index page (Web page) to include:
     - including text, images, and an embedded video.
 -->
 <head>
+  <!--
+    Defines the author, size scaling, and description of the webpage. Also links the CSS and sets the title.
+-->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="Cory Conrad">
   <meta name="description" content="A site dedicated to the Shattered RPG">
-  <title="It's Never Dark Enough">
+  <link rel="stylesheet" href="style.css">
+  <title>It's Never Dark Enough</title>
 </head>
 
 <body>
   <header>
-    <img src="/Gravekeepers%20-%20compressed.png" alt="Gravekeepers" align="center">
-    
+    <!--
+  Header includes a banner image and the navigation links
+-->
+    <img src="/Gravekeepers%20-%20compressed.png" alt="Gravekeepers" align="center" width="100%" height="auto">
+    <div class="topcenter">
+      <nav>
+        <ul>
+          <li><a href="https://chcstudent.github.io/"><img src="Shattered.png" alt="Home page link"></a></li>
+          <li><a href="TheWorld.html">The World</a></li>
+          <li><a href="TheRules.html">The Rules</a></li>
+          <li><a href="HowToPlay.html">How to Play</a></li>
+          <li><a href="INDE.html"><img src="INDE.png" alt="About Us"></a></li>
+        </ul>
+      </nav>
+    </div>
   </header>
   
   <h2>About Me</h2>
