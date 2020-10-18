@@ -19,19 +19,20 @@ Modify your GitHub index page (Web page) to include:
 </head>
 
 <body>
-  <header>
+  <header id="header background">
     <!--
   Header includes a banner image and the navigation links
 -->
-    <img src="/Gravekeepers%20-%20compressed.png" alt="Gravekeepers" align="center" width="100%" height="auto">
+    <!-- <img src="Gravekeepers%20-%20compressed.png" alt="Gravekeepers" align="center" width="100%" height="auto"> -->
+    <div class="logo"></div>
     <div class="topcenter">
       <nav>
         <ul>
-          <li><a href="https://chcstudent.github.io/"><img src="Shattered.png" alt="Home page link"></a></li>
+          <li><a href="https://chcstudent.github.io/"><img src="Shattered.png" alt="Home page link" height="100" width="300"></a></li>
           <li><a href="TheWorld.html">The World</a></li>
           <li><a href="TheRules.html">The Rules</a></li>
           <li><a href="HowToPlay.html">How to Play</a></li>
-          <li><a href="INDE.html"><img src="INDE.png" alt="About Us"></a></li>
+          <li><a href="INDE.html"><img src="INDE.png" alt="About Us" height="100" width="300"></a></li>
         </ul>
       </nav>
     </div>
