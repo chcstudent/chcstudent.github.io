@@ -48,7 +48,7 @@ Modify your GitHub index page (Web page) to include:
 
 <h2>Current Build</h2>
 
-<p>This page currently uses the Jekyll "Slate" theme, which allows the use of 'markdown' formatting for text. Three image embeds. Two link embeds.</p>
+<p>Established a header with banner image and navigation links. Still contains the About Me and links.</p>
 
 <h2>Intended Features</h2>
 
