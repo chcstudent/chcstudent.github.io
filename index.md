@@ -1,4 +1,4 @@
-<html>
+<html lang="en">
   <!--
 20OCT20 - Unit 4 Applied Assignment 1 - Cory Conrad
 Modify your GitHub index page (Web page) to include:
@@ -48,11 +48,11 @@ Modify your GitHub index page (Web page) to include:
 
 <h2>Current Build</h2>
 
-This page currently uses the Jekyll "Slate" theme, which allows the use of 'markdown' formatting for text. Three image embeds. Two link embeds.
+<p>This page currently uses the Jekyll "Slate" theme, which allows the use of 'markdown' formatting for text. Three image embeds. Two link embeds.</p>
 
 <h2>Intended Features</h2>
 
-5 Pages (including this one). About Us will include blurbs about the team. About the World will cover the world, the magic, and the monsters. Character Creation will cover teh character sheet and what to do with it. Let's Play will cover the dice mechanics and include a video of play. The end result should look kind of like this.
+<p>5 Pages (including this one). About Us will include blurbs about the team. About the World will cover the world, the magic, and the monsters. Character Creation will cover the character sheet and what to do with it. Let's Play will cover the dice mechanics and include a video of play. The end result should look kind of like this.</p>
 
 </body>
 </html>
