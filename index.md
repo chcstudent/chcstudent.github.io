@@ -11,11 +11,11 @@ Modify your GitHub index page (Web page) to include:
     Defines the author, size scaling, and description of the webpage. Also links the CSS and sets the title.
 -->
   <meta charset="utf-8">
+  <title>It's Never Dark Enough</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="Cory Conrad">
   <meta name="description" content="A site dedicated to the Shattered RPG">
   <link rel="stylesheet" href="style.css">
-  <title>It's Never Dark Enough</title>
 </head>
 
 <body>
