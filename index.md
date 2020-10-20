@@ -1,10 +1,6 @@
 <html lang="en">
   <!--
-20OCT20 - Unit 4 Applied Assignment 1 - Cory Conrad
-Modify your GitHub index page (Web page) to include:
-•	Create a multimedia page that teaches a simple skill 
-    - such as baking a loaf of bread, changing the oil in your car, or coding a simple web page 
-    - including text, images, and an embedded video.
+
 -->
 <head>
   <!--
@@ -27,13 +23,15 @@ Modify your GitHub index page (Web page) to include:
     <div class="logo"></div>
     <div class="topcenter">
       <nav>
-        <ul>
-          <li><a href="https://chcstudent.github.io/"><img src="Shattered.png" alt="Home page link" height="100" width="300"></a></li>
-          <li><a href="TheWorld.html">The World</a></li>
-          <li><a href="TheRules.html">The Rules</a></li>
-          <li><a href="HowToPlay.html">How to Play</a></li>
-          <li><a href="INDE.html"><img src="INDE.png" alt="About Us" height="100" width="300"></a></li>
-        </ul>
+        <table>
+          <tr>
+            <td><a href="https://chcstudent.github.io/"><img src="Shattered.png" alt="Home page link" height="100" width="300"></a></td>
+            <td><a href="TheWorld.html">The World</a></td>
+            <td><a href="TheRules.html">The Rules</a></td>
+            <td><a href="HowToPlay.html">How to Play</a></td>
+            <td><a href="INDE.html"><img src="INDE.png" alt="About Us" height="100" width="300"></a></td>
+          </tr>
+        </table>
       </nav>
     </div>
   </header>
