@@ -37,5 +37,6 @@ h3 {
   margin-top: 30px;
 }
 table, th, td {
-  background-color: black; 
+  background-color: black;
+  border: none;
 }
