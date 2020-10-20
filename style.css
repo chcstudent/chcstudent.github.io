@@ -2,6 +2,9 @@
   width: 100%;
   height: auto;
 }
+img {
+ background-color: black; 
+}
 body {
   background-color: black;
   color: white;
