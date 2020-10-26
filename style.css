@@ -40,7 +40,8 @@ h3 {
   font-weight: normal;
   margin-top: 30px;
 }
-table, th, td {
+table, th, td {     /*modifies text within the nav table */
   background-color: black;
   border: none;
+  font-family: "Bookman Old Style"; font-size: 24px; font-style: normal; font-variant: small-caps; font-weight: 700; line-height: 26.4px;
 }
