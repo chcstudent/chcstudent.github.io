@@ -23,13 +23,13 @@
     <div class="logo"></div>
     <div class="topcenter">
       <nav>
-        <table>
-          <tr>
-            <td><a href="https://chcstudent.github.io/"><img src="Shattered.png" alt="Home page link" height="100" width="300"></a></td>
-            <td><a href="TheWorld.html"><font face="Cardana">The World</font></a></td>
-            <td><a href="TheRules.html">The Rules</a></td>
+        <table align="center">
+          <tr align="center">
+            <td><a href="https://chcstudent.github.io/"><img src="Shattered.png" alt="Home page link" height="50" width="150"></a></td>
+            <td><a href="TheWorld.html">The World</a></td>
+            <td><a href="TheRules.html">Character Creation</a></td>
             <td><a href="HowToPlay.html">How to Play</a></td>
-            <td><a href="INDE.html"><img src="INDE.png" alt="About Us" height="100" width="300"></a></td>
+            <td><a href="INDE.html"><img src="INDE.png" alt="About Us" height="50" width="150"></a></td>
           </tr>
         </table>
       </nav>
