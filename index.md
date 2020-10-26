@@ -50,7 +50,7 @@
 
 <h2>To Learn More</h2>
 
-<p>Shattered is available on the <a href="https://shop.neverdarkenough.com/">INDE website</a> or <a href="https://www.drivethrurpg.com/product/224928/Shattered-A-Grimdark-RPG">DriveThruRPG</a> in both physical and digital versions. Digital versions are also included with every physical copy. If you have any questions, the INDE team is constantly engaging with players and inquisitive minds on our <a href="https://discord.com/invite/inde color="purple">Discord</a>.
+<p>Shattered is available on the <a href="https://shop.neverdarkenough.com/">INDE website</a> or <a href="https://www.drivethrurpg.com/product/224928/Shattered-A-Grimdark-RPG">DriveThruRPG</a> in both physical and digital versions. Digital versions are also included with every physical copy. If you have any questions, the INDE team is constantly engaging with players and inquisitive minds on our <a href="https://discord.com/invite/inde">Discord</a>.
 </p>
 </body>
 </html>
