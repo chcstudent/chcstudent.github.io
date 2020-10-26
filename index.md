@@ -15,7 +15,7 @@
 </head>
 
 <body>
-  <header id="header background">
+  <header id="header-background">
     <!--
   Header includes a banner image and the navigation links
 -->
@@ -36,22 +36,21 @@
     </div>
   </header>
   
-  <h2 style="text-align:left">About Me</h2>
+  <h2>When the World Shattered...</h2>
+  <img src="/Monster%20-%20Spinewretch%20-%20Final%20-%20HR.png" alt="Spinewretch" width="360" height="450" align="right">
+  <p>Humanity, at its technological peak, failed to recognize the threat of a growing religion. In the ecstatic throes of their zealotry, they committed a mass ritual-- and failed. What should have summoned their god, Ragnarok, instead sundered the world. The seas boiled away, replaced by oceans of magma. Tectonic plates sank entire cities and upbraded the surface with erratic mountain ranges. Magic and horrendous creatures of nightmare  seeped in through the cracks of reality that should have served as a portal for a mad god.</p>
 
-  <p>I'm Conrad, a Computer Programming major. I've been programming off and on since high school, so I've dabbled in C++, Java, HTML/CSS, and Python. My proudest achievement to date is as a member of a small company called INDE: we have published a tabletop rpg called <a href="https://neverdarkenough.com">Shattered</a>. It's a post-apocalyptic fantasy setting overrun by Lovecraftian monsters.</p>
+  <h2>What is Shattered?</h2>
+  <img src="/Race%20-%20Alypse%20-%20Final%20-%20HR.jpg" alt="Alypse" width="270" height="360" align="left" padding-bottom:"60px">
+  <p><a href="https://neverdarkenough.com">Shattered</a> is a tabletop roleplaying game (like Dungeons and Dragons). This means it is best played with four or five of your friends gathered around a table with the rulebook, some dice, and snacks. In addition to the <a href="TheRules.html">rules</a>, our book also provides a detailed description of the fantastic and monster-ridden realm of <a href="TheWorld.html"><b>Feneryss</b></a>. Humanity is clustered in a few city-states, for beyond their walls no one is safe from the roving <b>Undead Tide</b>-- not to mention the innumerable other monsters that lurk just beyond that thin veil of civilization. And if the monsters don't get you, there's no guaranteeing one's safety from fellow Feneryans: pirates, slavers, and other opportunists occupy every seedy city underbelly and roam the known world.</p>
 
-  <!-- Images should resize according to the window.-->
- <img src="/Monster%20-%20Spinewretch%20-%20Final%20-%20HR.png" alt="Spinewretch" width="360" height="450"> <img src="/Race%20-%20Alypse%20-%20Final%20-%20HR.jpg" alt="Alypse" width="270" height="360">
+<h2 padding-top:"60px">It's Never Dark Enough</h2>
 
-  <p>When I'm not at work as an analyst for NGA or wrestling my two boys, I'm an avid gamer, former rock climber, and occasional Audible listener. I have a love-hate relationship with LoL (y'all seen these Season 11 updates!?). Regarding Spotify, I'm on a <a href="http://open.spotify.com/track/4nHBK3Jv1EMSRWszFzZyNv?si=Hft1QLaXRkaDcx4zHUL0Kg">Sammus</a> and <a href="http://open.spotify.com/playlist/37i9dQZF1DX99A2f2lNH9g?si=SdM0H-GfRDmQvWtXLGbGpg">Sabaton</a> kick. </p>
+<p><b>INDE</b> (pronounced like indie) is a six-man team of passionate developers who loved tabletop RPGs, but wanted to break free of the vice grip of the twenty-sided die and generic settings. </p>
 
-<h2>Current Build</h2>
+<h2>To Learn More</h2>
 
-<p>Established a header with banner image and navigation links. Still contains the About Me and links.</p>
-
-<h2>Intended Features</h2>
-
-<p>5 Pages (including this one). INDE will include blurbs about the team. About the World will cover the world, the magic, and the monsters. Character Creation will cover the character sheet and what to do with it. Let's Play will cover the dice mechanics and include a video of play. The end result should look kind of like this.</p>
-
+<p>Shattered is available on the <a href="https://shop.neverdarkenough.com/">INDE website</a> or <a href="https://www.drivethrurpg.com/product/224928/Shattered-A-Grimdark-RPG">DriveThruRPG</a> in both physical and digital versions. Digital versions are also included with every physical copy. If you have any questions, the INDE team is constantly engaging with players and inquisitive minds on our <a href="https://discord.com/invite/inde color="purple">Discord</a>.
+</p>
 </body>
 </html>
